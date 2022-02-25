@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second letter to Dr. Burnet</title>
+            <author>Lowth, Simon, 1630?-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58980</idno>
+            <idno type="STC">Wing S2287</idno>
+            <idno type="STC">ESTC R8788</idno>
+            <idno type="EEBO-CITATION">11905096</idno>
+            <idno type="OCLC">ocm 11905096</idno>
+            <idno type="VID">50661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50661)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second letter to Dr. Burnet</title>
+                  <author>Lowth, Simon, 1630?-1720.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Taylor ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burnet, Gilbert, 1643-1715. --  Answer to a letter to Dr. Burnet, by Simon Lowth.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50661:1"/>
+            <!-- PDF PAGE 52 -->
+            <pb n="1" facs="tcp:50661:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <head>A Second Letter TO Dr. BURNET.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Perceive the Letter that was ſent you hath ſo <hi>en<g ref="char:EOLhyphen"/>raged</hi> you, that you have laid open your own ex<g ref="char:EOLhyphen"/>treme weakneſs, and at laſt Betray'd <hi>your ſelf.</hi> And I am concern'd at it for <hi>this only</hi> reaſon, becauſe you have taken occaſion to diſcharge a whole load of Cho<g ref="char:EOLhyphen"/>ler upon the <hi>Perſon</hi> of one, who is of known Integrity, Learning and Eminence in our Church, and in every re<g ref="char:EOLhyphen"/>ſpect ſo unlike Dr. <hi>Burnet,</hi> that I think my ſelf obliged in Juſtice to ſo a worthy a Man, to aſſure you, that all this while you are <hi>miſtaken</hi> in your Adverſary, and I ſolemnly declare in the preſence of God, that the Per<g ref="char:EOLhyphen"/>ſon againſt whom you write ſo Barbarouſly, had neither directly nor indirectly any Knowledg of the Letter you pretend to Anſwer; ſo that in Honor and Conſcience you are bound to make him Reparations, if you can; eſpe<g ref="char:EOLhyphen"/>cially conſidering that he hath given you no Provocati<g ref="char:EOLhyphen"/>on unleſs it be this, that his is a Man true to the Crown and Church of <hi>England.</hi> I could hardly forbear ſmiling to obſerve your miſtake, and to conſider that Dr. <hi>Burnet</hi> is not <hi>Infallible:</hi> but could not but pity your <hi>Raſhneſs,</hi>
+               <pb n="2" facs="tcp:50661:2"/>
+               <!-- PDF PAGE 53 -->that you ran away with ſuch a Cry upon a Preſumption of your <hi>own.</hi> This it is, when you will <hi>haſtily</hi> Plague the Preſs; but you give us this Caution, not to build too much upon your great <hi>Confidence</hi> in what you write. The only Excuſe for you (I think) is, that the ſenſe of your <hi>Guilt,</hi> for that Unbecoming and Unneceſſary touch about <hi>the cloſe and Comfortable Importance,</hi> conſtrained you to believe, that you had <hi>Juſtly</hi> created an Enemy, and <hi>Deſer<g ref="char:EOLhyphen"/>ved</hi> a Rebuke: but no body admires either your <hi>Ingenui<g ref="char:EOLhyphen"/>ty</hi> or <hi>Politicks,</hi> for characterizing One whoſe Reputation is above your reach, and who is ſo well able to give you your <hi>Due;</hi> eſpecially when you your <hi>Self</hi> ſtand ſo fair to be flung at for your <hi>own</hi> cloſe and comfortable <hi>Im<g ref="char:EOLhyphen"/>portance;</hi> I wiſh you to conſider on it, and to beware leſt you Truſt too much to good Natures.</p>
+            <p>Let us now go to the buſineſs in hand: a matter that (I aſſure you) is not managed out of rude Diſreſpect, or Quarrel againſt your <hi>Perſon;</hi> but partly to Reſcue the Reputation of Honeſt Mr. <hi>Lowth;</hi> partly to do Right to the Memory of that Holy Martyr, Archbiſhop <hi>Cran<g ref="char:EOLhyphen"/>mer;</hi> and chiefly to vindicate the Honor and Intereſt of our eſtabliſht <hi>Church,</hi> which plainly lieth at the <hi>bottom</hi> of this diſpute. For, if <hi>Cranmer</hi> changed not his <hi>Firſt</hi> Opi<g ref="char:EOLhyphen"/>nion about <hi>Church-Power,</hi> any Man that is an Enemy to our Church may appeal to <hi>Cranmer</hi>'s Judgment in favour of <hi>Eraſtianiſme,</hi> and <hi>Presbytery;</hi> and you very well know, that that Firſt Opinion of that great Man, has been ſtout<g ref="char:EOLhyphen"/>ly pleaded againſt the <hi>Neceſſity</hi> of our Epiſcopal Govern<g ref="char:EOLhyphen"/>ment. But if <hi>Cranmer</hi> did Retract his Opinion (as 'tis now granted he did) by Subſcribing to the Judgment of Dr. <hi>Leyghton,</hi> it is of great moment to have the Truth of that Retraction made out <hi>clear.</hi> Now this, we ſay, you have not done; and that therefore you have dealt Unfaithfully with the World, becauſe you ſaw in the Manuſcript <hi>Cranmer</hi>'s Retraction, and Subſcription to
+<pb n="3" facs="tcp:50661:2"/>
+               <!-- PDF PAGE 53 -->
+               <hi>Leyghton</hi>'s Opinion, under his own Hand (upon the Point of <hi>Church-Power</hi>) and yet have not noted it in your Collection of Records. So that the Point being of ſuch great Concernment, you muſt not think it will be ended by hard Words, by <hi>
+                  <g ref="char:V">Ʋ</g>nmannerly</hi> and <hi>Scurrilous</hi> Language, eſpecially ſuch as is beyond the rate of a <hi>Bil<g ref="char:EOLhyphen"/>linſgate</hi> ſtyle, however it may be uſed by ſome ill-natur'd <hi>Pedlers</hi> abroad. Two things only you ſay in your De<g ref="char:EOLhyphen"/>fence. Firſt, That <hi>in Copying out the Reſolutions of ſeveral Biſhops and Divines, you judged it might be more acceptable to the Reader to ſee every Man's Anſwer ſet down after every Queſtion, and that therefore you Publiſh'd them in that Method</hi> (meaning a <hi>Different</hi> Method from what you found in the <hi>Originals) and that this you was adviſed to, as being the eaſier Method,</hi> &amp;c. Secondly, That <hi>when you came to the laſt Queſtion</hi> (about extreme Unction) <hi>you ſet this down on the Margent over againſt</hi> Cranmer's <hi>Subſcription</hi> (to his own Paper) <hi>Theſe are the Subſcriptions which are at the end of every Man's Paper.</hi> Now truly all this ſeems to be nothing but <hi>Prevarication:</hi> for, as to your <hi>Firſt</hi> Plea, (that you <hi>altered</hi> the Method in the Original <hi>Manuſcripts</hi>) inſtead of being a juſt <hi>Excuſe,</hi> it is a direct act of Un<g ref="char:EOLhyphen"/>faithfulneſs, and a clear argument of a Siniſter <hi>Deſign.</hi> How came you to be ſo Bold, as to mangle the Monu<g ref="char:EOLhyphen"/>ments of the <hi>Dead,</hi> eſpecially of thoſe, upon whoſe Judg<g ref="char:EOLhyphen"/>ments and wiſe Proceedings the Honor of our Refor<g ref="char:EOLhyphen"/>mation doth ſo much depend? Whoever it was that gave you <hi>Advice,</hi> who gave you <hi>Authority</hi> to Methodize the Tranſcript of their Manuſcripts at your pleaſure? Or what <hi>End</hi> could you propoſe to your ſelf, when you took <hi>Leyghtons</hi> entire Paper (which <hi>Cranmer</hi> Subſcribed) in<g ref="char:EOLhyphen"/>to <hi>Pieces,</hi> and <hi>Divided</hi> the ſeveral parts of it <hi>Scattering<g ref="char:EOLhyphen"/>ly,</hi> and by <hi>piece-meals,</hi> here and there, (as you own you have done) unleſs it was <hi>Artificially</hi> to <hi>Conceal Granmer</hi>'s Subſcription to <hi>every</hi> Point in the Paper, ſave only the
+<pb n="4" facs="tcp:50661:3"/>
+               <!-- PDF PAGE 54 -->
+               <hi>laſt</hi> Point, concerning <hi>
+                  <g ref="char:V">Ʋ</g>nction?</hi> For, can you with Rea<g ref="char:EOLhyphen"/>ſon or Modeſty pretend, that you did this for your Rea<g ref="char:EOLhyphen"/>ders <hi>Eaſe?</hi> And when you had written a <hi>Large</hi> Volume of your <hi>own?</hi> We have a Proverb in <hi>England,</hi> That <hi>he that ſwalloweth an Ox, need not ſtick at the Tail,</hi> eſpecially when 'tis the beſt. Could it be out of regard to the Readers <hi>Eaſe,</hi> that you <hi>mangled</hi> the Paper of <hi>Leyghton</hi> and the reſt, when you have Publiſh'd ſo many <hi>Entire Ori<g ref="char:EOLhyphen"/>ginals</hi> (and ſome that are not of ſuch <hi>Great</hi> Conſiderati<g ref="char:EOLhyphen"/>on) in the <hi>Reſt</hi> of your <hi>Collection,</hi> and in the <hi>Addenda</hi> too? Nor could it be for your Readers <hi>Satisfaction</hi> in the leaſt. For all Men Love to ſee <hi>Exact</hi> Copies of Manu<g ref="char:EOLhyphen"/>ſcripts: and had <hi>theſe</hi> been <hi>ſo,</hi> we ſhould have been at a <hi>Certainty,</hi> touching the ſenſe of every one of thoſe Bi<g ref="char:EOLhyphen"/>ſhops and Divines in every particular Point; whereas now we muſt take things upon <hi>Truſt</hi> (eſpecially ſuch as have not the Manuſcripts at Command) we muſt <hi>pre<g ref="char:EOLhyphen"/>ſume</hi> upon the <hi>Faith</hi> of Dr. <hi>Burnet,</hi> which we think a Task too <hi>Hard</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nreaſonable</hi> to be impoſed upon us. Beſides, I appeal to the judgment of every Divine in our Church, whether every thing had not been infinitely <hi>clearer,</hi> than now it is; eſpecially that thing in <hi>debate, viz.</hi> the Opinion of <hi>Granmer</hi> in the Point of <hi>Church-Power,</hi> had <hi>Leyghton</hi>'s Paper been Pubiſh'd <hi>Entirely,</hi> with <hi>Cranmer</hi>'s own Hand to it all, as 'tis in the Original. The truth is, had the Paper been ſo Copied out, <hi>Cranmer</hi>'s Opinion could never have been urged more againſt our Eſtabliſht Church Government: and for that Reaſon ('tis to be feared) <hi>Leyhton</hi>'s Paper (with <hi>Cranmer</hi> Subſcribed) was <hi>chopt</hi> and minced into <hi>Porcels</hi> (without <hi>Cranmer</hi>'s Hand to every Reſolution) that his Opinion might be left very <hi>Dark</hi> and <hi>Doubtful,</hi> at the leaſt; whereas every <hi>Faithful</hi> and <hi>Honeſt</hi> Hiſtorian will be careful to Print Manuſcripts as he finds them, without uſing any manner of ſuſpicious <hi>Tricks.</hi>
+            </p>
+            <pb n="5" facs="tcp:50661:3"/>
+            <!-- PDF PAGE 54 -->
+            <p>In the <hi>Second</hi> part of your Plea (touching your Mar<g ref="char:EOLhyphen"/>ginal Note upon the laſt Queſtion about extreme Unction) you ſeem to ſet forth, that by publiſhing <hi>Cranmer</hi>'s Sub<g ref="char:EOLhyphen"/>ſcription to the Opinion of <hi>Leyghton</hi> upon <hi>that</hi> Point, you have given us <hi>ſufficient</hi> grounds to believe, that he Subſcribed in all <hi>other</hi> Points, and that therefore you have been Faithful. To this I ſay, Sir, that you are ut<g ref="char:EOLhyphen"/>terly miſtaken. For in regard that you have <hi>New Metho<g ref="char:EOLhyphen"/>diz'd,</hi> and <hi>Canton'd out,</hi> and <hi>Scatteringly diſpos'd</hi> of <hi>Leygh<g ref="char:EOLhyphen"/>ton</hi>'s Paper, <hi>Cranmer</hi>'s Subſcription to him in the <hi>laſt</hi> Ar<g ref="char:EOLhyphen"/>ticle, is no clear Argument that he was of <hi>Leyghton</hi>'s Judgment in every Article <hi>beſide:</hi> nor could you believe that your Reader would take it ſo, unleſs you had given <hi>this</hi> kind of <hi>Notice</hi> on the Margent over againſt every one of <hi>Leyhton</hi>'s Reſolutions, <hi>This,</hi> and <hi>This,</hi> and <hi>This</hi> Reſo<g ref="char:EOLhyphen"/>lution of <hi>Leyghton</hi>'s, Biſhop <hi>Cranmer Subſcribed</hi> to: and thus you ought to have done (if you would have dealt <hi>Clearly</hi> and <hi>Sincerely</hi>) conſidering that you took upon you to Methodize <hi>Leyghton</hi>'s Paper after your own way. What you ſay, that <hi>by this art of Reaſoning I may pretend, that my Subſcription belongs only to the laſt line in my Letter,</hi> is impertinent and of no force. For ſhould you, Sir, Retract <hi>your</hi> Error, as Biſhop <hi>Cranmer</hi> did <hi>His,</hi> ſhould you, Subſcribe at the bottom of my Letter <hi>G. Burnet,</hi> and ſhould ſome Vagrant Pedler at laſt carry this Letter into <hi>Scotland</hi> in broken ſhreds and piece-meals, would your Hand to the <hi>laſt</hi> little ſcript of Paper clearly argue that you were of my Opinion in every particular? This would hardly ſatisfie the Loyal Clergy there of your Re<g ref="char:EOLhyphen"/>pentance and Ingenuity, though they would be very glad to ſee it. Pray Doctor let me intreat you ſeriouſly to conſider this <hi>one</hi> thing. Theſe Manuſcripts were in the Hands of Dr. <hi>Stillingfleet</hi> when he wrote his <hi>Irenicum:</hi> and what think you? Did <hi>Cranmer</hi>'s Subſcription to <hi>Leyghton</hi> upon the <hi>laſt</hi> Point of <hi>Extreme <g ref="char:V">Ʋ</g>nction,</hi> ſatisfie
+<pb n="6" facs="tcp:50661:4"/>
+               <!-- PDF PAGE 55 -->Dr. <hi>Stillingfleet</hi> that he was of <hi>Leyghton</hi>'s Opinion in all <hi>other</hi> Points? Anſwer this Queſtion <hi>clearly,</hi> and like an <hi>Honeſt, Plean-dealing</hi> Man. To prevent Cavil I deſire you to believe, that I do not ſpeak with any the leaſt <hi>Reflection</hi> upon that Learned and Excellent Perſon, nor is Dr. <hi>Stillingfleet</hi>'s name to be mentioned by me without due <hi>Reſpect</hi> and <hi>Honor:</hi> I know what his Opinion was when he wrote that Book; but ſuch are his Merits, and the great Services he hath done on <hi>each</hi> Hand, that they out-weigh a ſingle Error of his younger years, eſpecially ſince he hath been ſo Juſt and Ingenuous as to Retract it. But ſince that great Man hath (like Archbiſhop <hi>Cranmer</hi>) <hi>own'd</hi> his miſtake, I hope he will not take it amiſs from me, if I <hi>mention</hi> it: and you know it was this, That <hi>no form of Church-Government is Neceſſary, but that it depends upon the Wiſdom of the Magiſtrate and Church.</hi> For proof hereof, among other Arguments (ſuch as they be) he particularly inſiſteth upon the Judgment of <hi>Cranmer,</hi> with<g ref="char:EOLhyphen"/>out taking any notice of <hi>Cranmer</hi>'s <hi>Changing</hi> his Opinion,<note place="margin">Vid. Irenic. a <hi>pag: 386.</hi> ad <hi>p. 393.</hi>
+               </note> or of his Subſcribing to the Judgment of <hi>Leyghton,</hi> tho <hi>Cranmer</hi>'s Sub<g ref="char:EOLhyphen"/>ſcription (at the end of <hi>Leyghton</hi>'s Paper, and under the Article of <hi>Extreme <g ref="char:V">Ʋ</g>nction</hi>) was under his own Hand in Dr. <hi>Stillingfleets</hi> Manuſcripts. Now will you ſay, that Dr. <hi>Stillingfleet</hi> was <hi>ſatisfied</hi> by <hi>Cran<g ref="char:EOLhyphen"/>mer</hi>'s Hand to <hi>one</hi> Article of <hi>Extreme <g ref="char:V">Ʋ</g>nction,</hi> that he was of <hi>Leyghton</hi>'s Judgment upon the Point of <hi>Church-Power?</hi> You cannot ſay this, without doing that worthy Perſon irreparable injury; for you muſt accuſe him of great <hi>
+                  <g ref="char:V">Ʋ</g>nfaithfulneſs,</hi> for urging an Opinion of <hi>Cranmer</hi>'s, which he was ſatisfied in his Conſcience by <hi>Cranmer</hi>'s Sub<g ref="char:EOLhyphen"/>ſcription, that <hi>Cranmer altered</hi> and <hi>changed</hi> upon ſecond and more Mature thoughts. You muſt ſay (if you will do Dr. <hi>Stillingfleet Right</hi>) that he was <hi>not</hi> ſatisfied by that Subſcription of <hi>Cranmer</hi>'s to that Article; and if <hi>He</hi> who
+<pb n="7" facs="tcp:50661:4"/>
+               <!-- PDF PAGE 55 -->had the Originals in his <hi>cuſtody,</hi> and had <hi>conſidered</hi> the thing ſo much, was nevertheleſs <hi>
+                  <g ref="char:V">Ʋ</g>nſatisfied</hi> and <hi>Deceived;</hi> well may all other Men be ſo too. I do not ſee how you will be able to get over this difficulty; and therefore you muſt be contented to give us leave to think, that becauſe you have mangled the Originals in copying them out; by taking notice of <hi>Cranmer</hi>'s Subſcription to <hi>one</hi> Point only, you have dealt <hi>
+                  <g ref="char:V">Ʋ</g>nfaithfully,</hi> and was willing either to <hi>Lead</hi> the World into an Error, or to <hi>Leave</hi> Men <hi>in</hi> one.</p>
+            <p>I think the ſubſtance of your Letter is now fully An<g ref="char:EOLhyphen"/>ſwer'd. If ſtill you conceive, that you have been unkind<g ref="char:EOLhyphen"/>ly uſed by ſome tart expreſſions, I pray conſider what high <hi>Provocations</hi> you have given. That you, a Foreigner, who have been ſo Pragmatical and Turbulent in your <hi>own</hi> Country, after ſo much miſchief done by you There, ſhould at laſt Thruſt your ſelf in among <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> and lend your Aſſiſtance to Factious Spirits againſt <hi>Our</hi> Church, which is ſo well conſtituted, and might be quiet, were it not for ſuch as you. And moreover, that you ſhould pre<g ref="char:EOLhyphen"/>ſume after ſuch a Contemptuous and Inſolent manner to treat the Regular Members of our Church, who by their Oaths and Duty are bound to <hi>maintain</hi> our Conſtitutions; this (not to ſpeak of many things more) is ſuch an un<g ref="char:EOLhyphen"/>pardonable Indignity, and an Argument of ſuch intole<g ref="char:EOLhyphen"/>rable <hi>Pride, Arrogance,</hi> and a <hi>Factious Spirit,</hi> that you have reaſon to Bleſs your good Fortune, if you eſcape only with a <hi>Flea</hi> in your <hi>Ear.</hi> As to that expreſſion in the former Letter, which you are pleaſed to call a Lewd Reflection on the whole Nation of <hi>Scotland;</hi> you palpa<g ref="char:EOLhyphen"/>bly wreſt the meaning of it to a wrong Conſtruction (a Faculty which Mr. <hi>Ferguſon</hi> and Dr. <hi>Burnet</hi> have in a eminent degree.) It was not a Touch upon the Scotch <hi>Nation,</hi> but upon the diſingenuous dealings of ſome par<g ref="char:EOLhyphen"/>ticular Scotch <hi>Men;</hi> the Author of that Letter having a
+<pb n="8" facs="tcp:50661:5"/>
+               <!-- PDF PAGE 56 -->true Honor (much more than Dr. <hi>Burnet</hi>) for thoſe many Loyal Perſons, who of late have ſo induſtriouſly ſhut the back-door againſt a Rebellion <hi>there,</hi> while ſome Scotch Miniſters and others were fomenting Treaſon and Rebel<g ref="char:EOLhyphen"/>lion in our <hi>own</hi> Nation. Much leſs may you look upon it as a contempt of the King (whom we Honor next to God) or of the whole Royal Family (which God pre<g ref="char:EOLhyphen"/>ſerve) or of that <hi>Bleſſed Martyr</hi> (as you <hi>juſtly</hi> call him, of whom the World was not Worthy.) I give you ten thouſand Thanks, and am your moſt humble Servant, for that one ſingle expreſſion, <hi>Bleſſed Martyr.</hi>
+            </p>
+            <p>I have no more to add, unleſs it be to adviſe you, if you think it worth your time to Return upon me, that you Calumniate not Men's <hi>Morals,</hi> as you did ſo unwor<g ref="char:EOLhyphen"/>thily in your laſt Letter; leſt you provoke ſome Body to follow your own Example, in writing <hi>Lives.</hi> Indeed it is Improper and Indecent to write any Man's Life before he <hi>Dies:</hi> yet ſometimes a character may be as ſafely written upon one Man's <hi>Face,</hi> as upon another Man's <hi>Grave-ſtone,</hi> eſpecially when the Forehead is <hi>Like</hi> the Marble, that up<g ref="char:EOLhyphen"/>on occaſion <hi>Sweats,</hi> but never changeth <hi>Colour.</hi>
+            </p>
+            <p>
+               <hi>Farewel;</hi> I and a great many more good Men ſhould be heartily glad that your next Letter to me were dated from <hi>Edinburgh:</hi> there it would quickly appear whether you or I have the greater Honor for the <hi>Scotch Nation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Taylor</hi> near Stationers-Hall, 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
